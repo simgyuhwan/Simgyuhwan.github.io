@@ -51,10 +51,10 @@ authors:
 
 author:
 name : Gyuhwan Sim
-avatar : assets/images/giraffe.png
+avatar : /assets/images/giraffe.png
 bio : 지금도 성장중인 개발자
 location : "South Korea"
-picture: assets/images/giraffe.png
+picture: /assets/images/giraffe.png
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
