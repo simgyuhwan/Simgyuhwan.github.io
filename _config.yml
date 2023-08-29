@@ -1,6 +1,6 @@
-# main text of home
-title: Gyuhwan Sim
-bio: 지금도 성장중인 개발자
+# # main text of home
+# title: Gyuhwan Sim
+# bio: 지금도 성장중인 개발자
 
 # twitter summary info
 description: 작은 습관이 큰 결과로 이어진다.
@@ -52,7 +52,7 @@ authors:
 author:
 name : Gyuhwan Sim
 avatar : assets/images/giraffe.png
-bio : 컴퓨터도 동료도 좋아죽는 코드를 지향하는 개발자
+bio : 지금도 성장중인 개발자
 location : "South Korea"
 picture: assets/images/giraffe.png
 
