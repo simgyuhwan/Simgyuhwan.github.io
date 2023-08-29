@@ -49,6 +49,13 @@ authors:
     picture: assets/images/giraffe.png
     # twitter: johndoe
 
+author:
+name : Gyuhwan Sim
+avatar : 
+bio : 컴퓨터도 동료도 좋아죽는 코드를 지향하는 개발자
+location : "South Korea"
+picture: assets/images/giraffe.png
+
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
