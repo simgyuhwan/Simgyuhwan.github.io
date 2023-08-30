@@ -114,7 +114,7 @@ Dockerfile에 명령어들을 입력하고 build를 할 경우, 각 명령어에
 6. 애플리케이션을 실행시켜 준다.
 7. 애플리케이션 실행 시, 보여지는 화면 또는 입력, 에러를 표시해준다.
 
- ## 4. Docker 동작 원리
+## 4. Docker 동작 원리
 
 **#docker run -it --rm ubuntu:18.04 /bin/bash**
 
