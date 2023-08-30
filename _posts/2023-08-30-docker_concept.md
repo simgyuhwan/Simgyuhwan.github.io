@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-30 13:50
 headerImage: false
 tags: [Blog, docker]
-star: true
+star: false
 category: blog
 author: gyuhwan
 excerpt: "Docker의 개념"
