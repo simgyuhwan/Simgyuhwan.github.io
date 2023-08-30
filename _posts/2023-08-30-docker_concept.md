@@ -1,5 +1,5 @@
 ---
-title: "Docker란??"
+title: "Docker란?"
 layout: post
 date: 2023-08-30 13:50
 headerImage: false
