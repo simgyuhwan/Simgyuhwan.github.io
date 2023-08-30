@@ -1,7 +1,7 @@
 ---
 title: "Slow Query 추적(PostgreSQL)"
 layout: post
-date: 2023-08-30 08:231
+date: 2023-08-30 08:23
 tags: [Blog, slow query, postgreSQL]
 star: false
 category: blog
