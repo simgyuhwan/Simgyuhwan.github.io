@@ -26,7 +26,7 @@ Docker는 컨테이너 기반 가상화 도구입니다. 리눅스 상에서 컨
 
  
 
-## 2. 가상머신과 **컨테이너의** 차이
+## 2. 가상머신과 컨테이너의 차이
 
 간단하게 요약하면 자주 사용하던 VMware나 Virtual Machine과 같은 VM(virtual Machine)은 **하드웨어** **+ OS**를 가상화 하는 것이고 컨테이너는 하드웨어를 뺀 **OS**만 가상화 하는 것이다. 
 
@@ -70,7 +70,7 @@ Host OS위에 Hyperviser를 설치하고 각각의 Guest OS를 설치하여 운�
 
  
 
-![img](file:///C:/Users/gyuhwan/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+![docker_concept4](/assets/images/concept/docker_concept4.png)
 
  
 
@@ -90,17 +90,15 @@ Host OS위에 Hyperviser를 설치하고 각각의 Guest OS를 설치하여 운�
 
 **Dockerfile**
 
-![docker_concept4](/assets/images/concept/docker_concept4.png)
+![docker_concept5](/assets/images/concept/docker_concept5.png)
 
 Dockerfile에 명령어들을 입력하고 build를 할 경우, 각 명령어에 따라 이미지가 생성됩니다. 이렇게 생성된 이미지가 층을 이루게 되어 layer 형식으로 쌓이게 됩니다.
 
 위와 같이 작성 후, 빌드 시키면 7개의 층이 쌓이게 되는데.
 
-![docker_concept5](/assets/images/concept/docker_concept5.png)
+![docker_concept6](/assets/images/concept/docker_concept6.png)
 
 위와 같이 step 7 단계로 생성되는 것을 확인할 수 있습니다.
-
- ![docker_concept6](/assets/images/concept/docker_concept6.png)
 
 이와 같이 이미지 레이어를 사용하는 이유는, 중간에 환경이나 버전 또는 소스를 수정할 때 전체 이미지를 다시 다운 받는 것 보다 해당하는 층을 수정하면 보다 효율적으로 바꿀 수 있기 때문입니다.
 
