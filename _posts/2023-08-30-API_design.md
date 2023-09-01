@@ -2,7 +2,7 @@
 title: "API 디자인 10개 체크 리스트(Java 8)"
 layout: post
 date: 2023-08-30 08:26
-tags: [Blog, java, skill]
+tags: [java, skill]
 star: false
 category: blog
 author: gyuhwan
