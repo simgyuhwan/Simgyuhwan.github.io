@@ -4,9 +4,16 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>즐겁게 개발하는 개발자</p>
 
-<p></p>
+![ready](/assets/images/profiles/ready.jpg)
+
+준비중 
+<br/>
+<br/>
+<a href="https://kr.freepik.com/free-vector/teamwork-of-tiny-people-with-gears-and-cogwheels-team-of-partners-working-on-upgrade-repair-improving-skills-and-client-service-flat-vector-illustration-business-organization-cooperation-concept_21683340.htm#query=%EC%A4%80%EB%B9%84%EC%A4%91&position=2&from_view=keyword&track=sph">이미지 출처 Freepik </a> 
+<!-- <p>즐겁게 개발하는 개발자</p>
+
+<!-- <p></p>
 
 <h2>Skills</h2>
 
@@ -33,7 +40,7 @@ layout: page
 	<li>Git / Github</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Projects</h2> --> 
 <!-- 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
